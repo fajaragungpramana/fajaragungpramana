@@ -4,9 +4,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About Me
 
-4+ years of experience as a Software Engineer with strong fundamentals in Mobile Technologies.
-Skilled in Flutter, Kotlin and Swift. Familiar with Object Oriented Programming and Data Structure. Likes
-building scalable infrastructure and making mobile apps fast and secure.
+5+ years Mobile Engineer specializing in Flutter cross-platform development with full-stack backend capabilities (Deno, NestJS, TypeScript).
+</br>
+</br>
+Currently building production AI-powered mobile applications with GPT and Gemini API integration - handling end-to-end implementation from mobile UI to backend services.
+</br>
+</br>
+Experienced in architecting scalable mobile ecosystems, API development, and delivering intelligent features that drive business value.
 
 ### Github Statistic
 
