@@ -14,4 +14,4 @@ Experienced in architecting scalable mobile ecosystems, API development, and del
 
 ### Github Statistic
 
-![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajaragungpramana&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fajaragungpramana)](https://git.io/streak-stats)
